@@ -1,4 +1,4 @@
-package com.lion.gut
+package com.lion.GitTest
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
